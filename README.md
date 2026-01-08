@@ -9,6 +9,7 @@ Repository ini berfokus pada eksplorasi UI system-level tanpa memodifikasi logic
 ## Preview
 
 > Tampilan taskbar terpusat, floating, ikon rata tengah, dengan bentuk membulat dan layout lebih bersih dibanding default Windows 11.
+<br>
 ![Centered Floating Taskbar](assets/preview.png)
 
 ---
